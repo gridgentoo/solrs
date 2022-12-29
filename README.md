@@ -1,3 +1,6 @@
+Original repository   
+https://github.com/inoio/solrs   
+
 # solrs - async solr client for java/scala
 
 [![Build Status](https://github.com/inoio/solrs/actions/workflows/scala.yml/badge.svg)](https://github.com/inoio/solrs/actions/workflows/scala.yml)
